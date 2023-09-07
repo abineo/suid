@@ -1,0 +1,13 @@
+[package]
+name = "suid"
+version = "1.0.0"
+license-file = "LICENSE"
+edition = "2021"
+description = "Sortable (timestamp-first) unique identifier"
+repository = "https://github.com/abineo/suid"
+categories = ["database", "data-structures"]
+keywords = ["unique",  "random", "timestamp-first", "identifier"]
+
+
+[dependencies]
+rand = "0.8.5"
