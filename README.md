@@ -1,5 +1,6 @@
 # Sortable (timestamp-first) unique identifier
 
+[![Tests](https://img.shields.io/github/actions/workflow/status/abineo/suid/rust.yml?branch=main)](https://github.com/abineo/suid)
 [![Crates.io](https://img.shields.io/crates/v/suid)](https://crates.io/crates/suid)
 [![Documentation](https://docs.rs/suid/badge.svg)](https://docs.rs/suid)
 
